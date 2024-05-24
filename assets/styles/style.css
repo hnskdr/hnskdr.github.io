@@ -1,0 +1,13 @@
+body, h1, h2, p, ul, li {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    bottom: 0;
+    width: 100%;
+}
